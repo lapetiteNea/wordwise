@@ -1,3 +1,3 @@
 # WordWise
 
-WordWise არის ვებსაიტი უცხო ენის ლექსიკის დასასწავლად ბარათების, გამეორებისა და მინი-ტესტების საშუალებით.
+WordWise is a website for learning foreign language vocabulary through flashcards, repetition, and mini-quizzes.
